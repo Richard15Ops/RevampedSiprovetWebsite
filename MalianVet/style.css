@@ -1,0 +1,21 @@
+.text-white {
+  color: #ffffff !important;
+}
+
+.text-purplee {
+    color:#2b169f !important; 
+}
+
+.text-blue {
+    color:#000000 !important; 
+}
+
+.bg-purple {
+  background-color: #8969d8 !important;
+}
+
+.collab-img {
+  width: 100px;   /* or your preferred size */
+  height: auto;
+  margin: 8px;
+}
